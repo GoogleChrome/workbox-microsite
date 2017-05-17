@@ -11,7 +11,7 @@ const fetchAndLog = async (url) => {
 
 /**
  * Any precached assets that are updated will automatically generate a message
- * using the BroadcastChannel API. Our page can listen for this message and
+ * using the Broadcast Channel API. Our page can listen for this message and
  * find out what was updated.
  */
 const precacheUpdates = new BroadcastChannel('precache-updates');

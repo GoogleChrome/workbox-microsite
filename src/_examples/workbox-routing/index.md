@@ -4,7 +4,7 @@ link_to_workbox_sw: true
 module: workbox-routing
 show_page_js: true
 title: <a href="/examples/">Examples</a> > workbox-routing
-description: makes it easy to handle network requests using the response strategy of your choice.
+description: Makes it easy to handle network requests using the response strategy of your choice.
 ---
 
 `{{ page.module }}` {{ page.description }}
