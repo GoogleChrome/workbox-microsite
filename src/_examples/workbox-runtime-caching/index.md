@@ -4,7 +4,7 @@ link_to_workbox_sw: true
 module: workbox-runtime-caching
 show_page_js: true
 title: <a href="/examples/">Examples</a> > workbox-runtime-caching
-description: implements common cache strategies, and provides hooks to extend the default behaviors.
+description: Implements common cache strategies, and provides hooks to extend its default behaviors.
 ---
 
 `{{ page.module }}` {{ page.description }}

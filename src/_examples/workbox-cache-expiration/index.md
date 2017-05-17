@@ -4,7 +4,7 @@ link_to_workbox_sw: true
 module: workbox-cache-expiration
 show_page_js: true
 title: <a href="/examples/">Examples</a> > workbox-cache-expiration
-description: takes care of expiring cached entries based on the maximum number or age of entries.
+description: Takes care of expiring cached entries based on the maximum number or age of entries.
 ---
 
 `{{ page.module }}` {{ page.description }}

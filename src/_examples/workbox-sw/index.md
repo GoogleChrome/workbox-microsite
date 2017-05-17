@@ -4,7 +4,7 @@ link_to_workbox_sw: false
 module: workbox-sw
 show_page_js: true
 title: <a href="/examples/">Examples</a> > workbox-sw
-description: a high-level wrapper that ties together the smaller modules into a single, consistent interface.
+description: A high-level wrapper that ties together the smaller modules into a single, consistent interface.
 ---
 
 `{{ page.module }}` is {{ page.description }}
