@@ -9,7 +9,7 @@ description: takes care of expiring cached entries based on the maximum number o
 
 `{{ page.module }}` {{ page.description }}
 
-When a maximum number of entries is given, the expiration performed using a
+When a maximum number of entries is given, the expiration is performed using a
 least-recently used policy.
 
 Responses fetched in this example are stored in a cache that imposes a
