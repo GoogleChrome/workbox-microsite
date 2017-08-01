@@ -17,7 +17,7 @@ Stackoverflow is a great place to asking and answering
 questions on how to use Workbox.
 
 If you do raise a question please you use the
-[workboxjs](https://stackoverflow.com/questions/tagged/workboxjs)
+[workbox](https://stackoverflow.com/questions/ask?tags=workbox)
 tag, this will help the community easily find and
 answer your questions.
 
