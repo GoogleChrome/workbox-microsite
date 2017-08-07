@@ -7,27 +7,32 @@ styles:
 
 # Community & Support
 
-There are a few ways you can get involved with Workbox
-and learn more about current and future plans for the
-project as well as help the community or get support.
+There are a few ways you learn more about plans for Workbox, help others,
+and get support.
 
-## Stackoverflow
+## Stack Overflow
 
-Stackoverflow is a great place to asking and answering
+Stack Overflow is a great place to asking and answering
 questions on how to use Workbox.
 
-If you do raise a question please you use the
+If you do raise a question please use the
 [workbox](https://stackoverflow.com/questions/ask?tags=workbox)
-tag, this will help the community easily find and
-answer your questions.
+tag. This will help the community easily
+[find](https://stackoverflow.com/questions/tagged/workbox) and answer your
+questions.
 
 ## Slack
 
-Once a week the Core Workbox team will be on slack
+Once a week the Core Workbox team will be on Slack
 for an hour or so to discuss upcoming changes as well
-as future plans. If you are interested in learning
-more or contributing then please feel free to join
-the '#workbox' room on the [ChromiumDev Slack Channel](https://chromiumdev.slack.com/).
+as future plans.
+
+If you are interested in taking part please feel free to join
+the **#workbox** room on the
+[ChromiumDev Slack Channel](https://chromiumdev.slack.com/).
+
+If you're not already a member of the channel, you can
+[request access here](https://chromiumdev-slack.herokuapp.com/).
 
 Times of when we'll be meeting are on the calendar below.
 
