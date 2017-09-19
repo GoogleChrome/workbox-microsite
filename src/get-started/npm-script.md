@@ -34,7 +34,7 @@ If you already have a build process based on npm scripts you can use
     ```
 
     The first time you run this, a wizard asks several questions about your
-    poject before the module generates a service worker. Answer `Y` when
+    project before the module generates a service worker. Answer `Y` when
     prompted to save your choices. Your answers will be saved in a file called
     `workbox-cli-config.json`.
 
